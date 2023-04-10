@@ -1,4 +1,4 @@
-module github.com/s3rj1k/wpress-exctract
+module github.com/s3rj1k/wpress-extract
 
 go 1.20
 
